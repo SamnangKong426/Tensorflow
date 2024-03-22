@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>iloveyou950e7155-e4e6-11ee-b210-64497d1badd6.jpg</filename>
+	<path>/home/tong/Documents/Robocon/OpenCV/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/iloveyou950e7155-e4e6-11ee-b210-64497d1badd6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iloveyou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>193</ymin>
+			<xmax>298</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

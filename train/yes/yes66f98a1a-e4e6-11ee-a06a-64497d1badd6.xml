@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>yes66f98a1a-e4e6-11ee-a06a-64497d1badd6.jpg</filename>
+	<path>/home/tong/Documents/Robocon/OpenCV/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/yes66f98a1a-e4e6-11ee-a06a-64497d1badd6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>249</ymin>
+			<xmax>432</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>
